@@ -25,7 +25,7 @@ The environment configuration tells GitHub that this deployment is using the `gi
 
 ## 5. How does this automated deployment improve reliability compared to manual deployment?
 
-This makes deployment more reliable because the same steps happen each time instead of depending on someone remembering everything manually. The workflow checks the HTML and links before deployment so problems have a better chance of being caught first. It also lowers the chance of mistakes like forgetting a step, uploading the wrong files, or deploying something that was not checked. Overall the process is more consistent because GitHub handles it the same way each time.
+This makes deployment more reliable because the same steps happen each time instead of depending on someone remembering everything manually. The workflow checks the HTML and links before deployment so problems have a better chance of being caught first. It also lowers the chance of mistakes like forgetting a step, uploading the wrong files, or deploying something that was not checked. Overall the process is more consistent because GitHub handles it the same way each time. Another benefit is that the workflow creates a clear record in GitHub Actions showing whether each deployment passed or failed, which makes problems easier to track. 
 
 ## 6. What would happen if you pushed code to a different branch instead of `main`?
 

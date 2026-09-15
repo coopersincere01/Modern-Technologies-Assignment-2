@@ -1,5 +1,7 @@
 # TechFlow Solutions Website
 
+[![Deploy to GitHub Pages](https://github.com/coopersincere01/Modern-Technologies-Assignment-2/actions/workflows/deploy.yml/badge.svg)](https://github.com/coopersincere01/Modern-Technologies-Assignment-2/actions/workflows/deploy.yml)
+
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
 ## Project Structure
